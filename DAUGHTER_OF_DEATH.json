@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "author": "KAISER",
+    "version": "0.0.1",
+    "name": "DAUGHTER OF DEATH",
+    "transparency_mode": 3,
+    "license": "CASTORICE"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/kaiser1433435/CASTORICE-WALLPAPER/refs/heads/main/castorice.png",
+    "overlay_alpha": 170,
+    "blur_radius": 2
+  },
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {}
+}
