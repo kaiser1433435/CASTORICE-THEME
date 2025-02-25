@@ -4,14 +4,28 @@
     "version": "0.0.1",
     "name": "DAUGHTER OF DEATH",
     "transparency_mode": 3,
-    "license": "CASTORICE"
+    "license": "CASTORICE",
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/CASTORICE-THEME/refs/heads/main/DAUGHTER_OF_DEATH.json"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/kaiser1433435/CASTORICE-WALLPAPER/refs/heads/main/castorice.png",
     "overlay_alpha": 170,
     "blur_radius": 2
   },
-  "simple_colors": {},
-  "colors": {},
-  "drawable_tints": {}
+  "simple_colors": {
+    "accent": -9164858,
+    "background": 0,
+    "background_secondary": 0,
+    "input_background": 5198940,
+    "active_channel": 4343373,
+    "blocked_bg": 0,
+    "statusbar": 2105893,
+    "mention_highlight": -2191879
+  },
+  "colors": {
+    "link": -2468376
+  },
+  "drawable_tints": {
+    "ic_status_idle_16dp": -1740808
+  }
 }
