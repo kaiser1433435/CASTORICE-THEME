@@ -4,7 +4,8 @@
     "version": "0.0.1",
     "name": "DAUGHTER OF DEATH'S CARD",
     "license": "CASTORICE",
-    "transparency_mode": 3
+    "transparency_mode": 3,
+    "updater": "https://raw.githubusercontent.com/kaiser1433435/CASTORICE-THEME/refs/heads/main/DAUGHTER_OF_DEATH'S_CARD.json"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/kaiser1433435/CASTORICE-WALLPAPER/refs/heads/main/castorice%20card.png",
